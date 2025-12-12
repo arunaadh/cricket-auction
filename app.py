@@ -12,7 +12,7 @@ MIN_SQUAD = 18
 MAX_SQUAD = 25
 MIN_BID_R1 = 1000
 MIN_BID_R2 = 500
-TEAMS = ["CSK", "MI", "RCB", "KKR"]
+TEAMS = ["Velliyanai", "Pasuvai", "Vennaimalai", "Thanthoni", "Palayam"]
 
 # --- GOOGLE SHEETS SETUP ---
 SPREADSHEET_NAME = "Auction" 
@@ -261,4 +261,5 @@ def main():
         st.image("https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2067&auto=format&fit=crop", caption="Live Auction") 
 
 if __name__ == "__main__":
+
     main()
