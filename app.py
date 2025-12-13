@@ -12,7 +12,7 @@ MIN_SQUAD = 18
 MAX_SQUAD = 25
 MIN_BID_R1 = 1000
 MIN_BID_R2 = 500
-TEAMS = ["Velliyanai", "Pasuvai", "Vennaimalai", "Thanthoni", "Palayam"]
+TEAMS = ["Velliyanai", "Pasuvai", "Vennaimalai", "Thanthoni", "Thaneer Panthal"]
 
 # --- GOOGLE SHEETS SETUP ---
 SPREADSHEET_NAME = "Auction" 
@@ -263,3 +263,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
